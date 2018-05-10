@@ -1,0 +1,16 @@
+{
+   "Subject": {
+       "Data": "Gear KPI alert",
+       "Charset": "UTF-8"
+   },
+   "Body": {
+       "Text": {
+           "Data": "Enable HTML to view this report.",
+           "Charset": "UTF-8"
+       },
+       "Html": {
+           "Data": "{{data}}",
+           "Charset": "UTF-8"
+       }
+   }
+}

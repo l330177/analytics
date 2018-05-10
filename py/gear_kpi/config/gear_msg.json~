@@ -1,0 +1,8 @@
+{
+      "Data": "From: notifications@samsungknox.com\nTo:
+arthur.l@samsung.com\nSubject: Gear KPI (contains an 
+attachment)\nMIME-Version: 1.0\nContent-type: Multipart/Mixed; boundary=\"NextPart\"\n\n--NextPart--\nContent-Type: text/plain
+\n\nThis is the Gear KPI.\n\n--NextPart\nContent-Type:
+text/plain;\nContent-Disposition: attachment; filename=\"Gear
+KPI.csv\"\n\n"{{attachment}}"\n\n--NextPart--"
+   }}

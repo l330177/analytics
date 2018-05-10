@@ -1,0 +1,20 @@
+''' quick  grrr
+'''
+from email.mime.text import MIMEText
+from email.mime.application import MIMEApplication
+from email.mime.multipart import MIMEMultipart
+import boto
+msg = MIMEMultipart()
+msg['Subject'] = 'Gear KPI'
+msg['From'] = 'notifications@samsungknox.com'
+msg['To'] = 'arthur.l@samsung.com'
+msg.preamble = 'Multipart message.\n'
+part = MIMEText('here is the Gear KPI.')
+msg.attach(part)
+part = MIMEApplication(open('.\\Gear KPI.csv', 'rb').read())
+part.add_header('Content-Disposition', 'attachment', filename='Gear KPI.csv')
+msg.attach(part)
+
+# and send the message
+raw_msg = open("gearmsg.json", "w")
+raw_msg.write(msg.preamble,msg['From'],msg['To'],msg['Subject'],msg.attach(part))

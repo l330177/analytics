@@ -1,0 +1,12 @@
+2016-08-25 20:47:33 ERROR  : ERROR:  syntax error at or near "TRUE"
+LINE 1: SELECT * FROM "Users" WHERE "Deleted"TRUE;
+                                             ^
+2016-08-26 14:58:48 ERROR  : ERROR:  syntax error at or near "="
+LINE 1: SELECT * FROM "LicenseoginAccessUsages WHERE "Deleted=TRUE;
+                                                             ^
+2016-08-26 14:58:59 ERROR  : ERROR:  unterminated quoted identifier at or near ""=TRUE;"
+LINE 1: SELECT * FROM "LicenseoginAccessUsages WHERE "Deleted"=TRUE;
+                                                             ^
+2016-08-26 14:59:19 ERROR  : ERROR:  unterminated quoted identifier at or near ""=TRUE;"
+LINE 1: ...ELECT * FROM "LicenseLoginAccessUsages WHERE "Deleted"=TRUE;
+                                                                ^

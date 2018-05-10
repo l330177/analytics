@@ -1,0 +1,6 @@
+{
+  "ToAddresses":  ["rui.chen1@samsung.com","c.moparthi@samsung.com","a.seshadri@samsung.com","jifan.zhu@samsung.com","yonghui.c@samsung.com","mi.zhang@samsung.com","na.wang1@samsung.com","bdsilva@samsung.com"],
+  "CcAddresses":
+["nancy.yu@samsung.com","n.varkey@samsung.com","h.sharma2@samsung.com","dave.maung@samsung.com","k.kartikeya@samsung.com"],
+  "BccAddresses": ["arthur.l@samsung.com"]
+}

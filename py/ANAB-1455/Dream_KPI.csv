@@ -1,0 +1,23 @@
+,2017-04-17,2017-04-18,2017-04-19,2017-04-20
+RU_all_count,6551275,6562836,6589236,6614464
+RU_dream_count,1754,2119,41227,78388
+C/D only Gross CRU_all_count_cumulative,2464542,2467891,2476952,2487570
+C/D only Gross CRU_dream_count_cumulative,1035,1253,19127,38992
+C/D only net CRU_all_count_cumulative,1691226,1691387,1695110,1703216
+C/D only net CRU_dream_count_cumulative,840,1044,18730,38308
+C/D MAU_all_count,437797,438861,440188,444192
+C/D MAU_dream_count,550,608,1752,7011
+C/D AU_all_count_cumulative,1295377,1296982,1299076,1302438
+C/D AU_dream_count_cumulative,613,671,1816,7075
+Reward Enroll_all_count_cumulative,1050803,1056872,1070718,1086559
+Reward Enroll_dream_count_cumulative,1107,1342,23396,45592
+Reward C/D only Gross CRU_all_count_cumulative,817537,821440,830645,841720
+Reward C/D only Gross CRU_dream_count_cumulative,869,1041,14599,30373
+Reward C/D only Net CRU_all_count_cumulative,726717,729653,737407,747458
+Reward C/D only Net CRU_dream_count_cumulative,719,883,14318,29937
+Reward C/D only MAU_all_onetofour,127050,128051,129648,133001
+Reward C/D only MAU_all_fivetonine,69946,69946,70379,71219
+Reward C/D only MAU_all_morethannine,154766,154975,155152,156784
+Reward C/D only MAU_dream_onetofour,123,148,954,4557
+Reward C/D only MAU_dream_fivetonine,69,82,242,1079
+Reward C/D only MAU_dream_morethannine,321,338,385,749

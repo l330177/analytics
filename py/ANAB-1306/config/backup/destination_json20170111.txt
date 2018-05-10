@@ -1,0 +1,5 @@
+{
+  "ToAddresses":  ["arthur.l@samsung.com"],
+  "CcAddresses":  [],
+  "BccAddresses": []
+}

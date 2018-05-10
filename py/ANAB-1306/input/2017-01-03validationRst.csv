@@ -1,0 +1,23 @@
+KPI,Name,Percentage Difference,Qlik Count,Redshift Count,isAboveThreshold,threshold
+Registered User(Gross),ru,0.00160363467239,5716561.0,5725743.0,False,20.0
+Gross CRU (Credit/Debit+Membership+GC),gcru,0.00138711955361,2258384.0,2261521.0,True,20.0
+Gross Net CRU (Credit/Debit+Membership+GC,ncru,0.00113029987797,1719721.0,1721667.0,True,20.0
+Gross MAU (Credit+Debit+Membership+GC),gmau,0.00508184100313,641002.0,637761.0,True,100.0
+Gross WAU (Credit+Debit+Membership+GC),gwau,0.00141285446763,359355.0,358848.0,True,120.0
+Gross DAU (Credit+Debit+Membership+GC),gdau,0.173295173295,91856.0,111111.0,True,150.0
+Daily new RU,ru_daily_diff,0.0632152588556,8595.0,9175.0,True,20.0
+New Daily CRU,new_CRU_daily,0.101786853861,2815.0,3134.0,True,20.0
+Net New CRU,net_new_cru_for_yesterday,0.102163061564,2698.0,3005.0,True,20.0
+C/D only Gross CRU,gcru_only_credit_debit,0.00136213235378,2178168.0,2181139.0,True,20.0
+Membership only Gross CRU,gcru_only_membership,0.00241558490817,420825.0,421844.0,True,20.0
+Gift Card only Gross CRU,gcru_only_giftcard,0.000975330335096,387183.0,387561.0,True,20.0
+C/D only Net CRU,ncru_only_credit_debit,0.000993240948348,1594201.0,1595786.0,True,20.0
+Membership only Net CRU,ncru_only_membership,0.00219594371408,377594.0,378425.0,True,20.0
+Gift Card only Net CRU,ncru_only_giftcard,0.000549242478991,345741.0,345931.0,True,20.0
+C/D only Gross MAU,gmau_only_credit_debit,0.00334326670002,461267.0,459730.0,True,20.0
+Membership only Gross MAU,gmau_only_membership,0.00369686747499,189235.0,188538.0,True,40.0
+Deals and offers only MAU,001_deals_only_MAU,0.0117112039646,260288.0,257275.0,True,200.0
+Gift Card only Gross MAU,gmau_only_giftcard,0.0116420720396,73079.0,72238.0,True,20.0
+Rewards MAU,gmau_onlyrewards,0.0236804164487,80233.0,78377.0,True,50.0
+Daily New Active Users (Gross),daily_new_active_users_gross,0.0960492932222,2494.0,2759.0,True,50.0
+,NotUpdating,,,,False,
